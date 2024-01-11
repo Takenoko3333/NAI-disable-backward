@@ -7,7 +7,6 @@
 # 説明
 - NovelAIの画像生成画面において、ブラウザの戻るボタンを無効化します。
 - これにより、ブラウザの戻るボタン操作による生成画像削除を防止します。
-  
 <br>
 
 # 使用方法
@@ -25,8 +24,6 @@ Released under the [MIT](https://opensource.org/licenses/mit-license.php) licens
 # Description
 - Disables the browser's backward on NovelAI's image generation screen.
 - This prevents the deletion of generated images due to browser backward operations.
-
-![NAI-use-anlas-alert-2](https://github.com/Takenoko3333/NAI-use-anlas-alert/assets/153407565/63b9add7-2f99-476f-bffa-4f5d933e62e0)
 <br>
 
 # Usage
