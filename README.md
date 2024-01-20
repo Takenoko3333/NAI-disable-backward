@@ -28,7 +28,7 @@ Released under the [MIT](https://opensource.org/licenses/mit-license.php) licens
 
 # Usage
 - Install this script in Tampermonkey or other UserScript.
-- You can also install from [greasyfork](https://greasyfork.org/ja/scripts/484613-novelai-disable-backward).
+- You can also install from [greasyfork](https://greasyfork.org/en/scripts/484613-novelai-disable-backward).
 <br>
 
 # License
